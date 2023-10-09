@@ -1,5 +1,5 @@
 {
-  "name": "vue-storybook",
+  "name": "vue-storybook-poc-constant",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
